@@ -14,7 +14,7 @@ Realización de un menú horizontal.
 * app.js
 * main.css
 
-Para este ejercicio se utiliza propiedades y atributos como display, selectores, pseudoselectores, etc.
+Para este ejercicio se utiliza propiedades y atributos como display, float, selectores, pseudoselectores, etc.
 
 Vista del ejemplo:
 

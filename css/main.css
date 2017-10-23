@@ -17,8 +17,7 @@ ul{
     overflow: auto;
 }
 
-
-/**/
+/*aplicando la propiedad de posicionamiento float*/
 li{
     width: 100px;
     text-align: center;
